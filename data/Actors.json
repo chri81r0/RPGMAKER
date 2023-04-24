@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"char","characterIndex":0,"characterName":"char","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"char","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sebastian","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Intro/cutscene","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"man_2","characterIndex":0,"characterName":"man_2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"man_2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jonas","nickname":"Jonas","note":"","profile":""},
+{"id":4,"battlerName":"leder","characterIndex":0,"characterName":"leder","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Leder","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lars","nickname":"Lars","note":"","profile":""},
+{"id":5,"battlerName":"girl_2","characterIndex":0,"characterName":"girl_2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"girl_2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Freja","nickname":"Freja","note":"","profile":""},
+{"id":6,"battlerName":"man","characterIndex":0,"characterName":"man","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"man","traits":[],"initialLevel":1,"maxLevel":99,"name":"William","nickname":"William","note":"","profile":""},
+{"id":7,"battlerName":"girl","characterIndex":0,"characterName":"girl","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"girl","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lise","nickname":"Lise","note":"","profile":""}
+]
